@@ -1,0 +1,217 @@
+{
+  "name": "Beta Modded Co-op",
+  "game_version": null,
+  "created_by": "ColonelKernull",
+  "mods": [
+    {
+      "name": "BaseLib",
+      "version": "v3.1.8",
+      "source": null,
+      "hash": "047b5088c81ffed28c54b5d5088150c73c36bac471505aaf6df7d976a27deaf3",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_b700f796.zip",
+      "bundle_sha256": "b700f79601964563791a81e650f60c19b6f36d8e4e8da9580913aae15951ed10"
+    },
+    {
+      "name": "BetterSpire2",
+      "version": "v1.82.3",
+      "source": null,
+      "hash": "bade1c0a8d4d2a410c1af11be0888df43d09f02d8e6226972c9ec7264dfc4526",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_09d43b28.zip",
+      "bundle_sha256": "09d43b28e84d73feaadf622f51ff949b1f9d3f85d6e594e95dd989d4b0f452c9"
+    },
+    {
+      "name": "Corrupted",
+      "version": "v1.1.5",
+      "source": null,
+      "hash": "0873e41cfd5220f4eeb217a2ee0acc3dd406140d68d57f2e27b5010b2fd04402",
+      "files": [
+        "TheCorrupted\\TheCorrupted.dll",
+        "TheCorrupted\\TheCorrupted.json",
+        "TheCorrupted\\TheCorrupted.pck"
+      ],
+      "folder_name": "TheCorrupted",
+      "mod_id": "TheCorrupted",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Corrupted_v1.1.5_58874aa3.zip",
+      "bundle_sha256": "58874aa3550f8ac0eacd089a5fc540e8e84c903f6667e26fec3100f4402f9a2e"
+    },
+    {
+      "name": "Deadcells mod",
+      "version": "v0.1.5",
+      "source": null,
+      "hash": "44a738b958213af72c9ed373d335f9c27acfc3888ca20182c6322d13b095f8d7",
+      "files": [
+        "Deadcells\\Deadcells.dll",
+        "Deadcells\\Deadcells.json",
+        "Deadcells\\Deadcells.pck"
+      ],
+      "folder_name": "Deadcells",
+      "mod_id": "Deadcells",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Deadcells_mod_v0.1.5_85cb5425.zip",
+      "bundle_sha256": "85cb542592470c713dc719cdecee72a78a9b2bb0d05823bc54c6a515faff2aa8"
+    },
+    {
+      "name": "PaelGirl",
+      "version": "v0.1.0",
+      "source": null,
+      "hash": "d2201f5758544800a679ba8bd10cfe88cf4212e4fadc36dea484a023e1ff730d",
+      "files": [
+        "PaelGirl\\PaelGirl.dll",
+        "PaelGirl\\PaelGirl.json",
+        "PaelGirl\\PaelGirl.pck"
+      ],
+      "folder_name": "PaelGirl",
+      "mod_id": "PaelGirl",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/PaelGirl_v0.1.0_fada649d.zip",
+      "bundle_sha256": "fada649db058240f1419b7af108da6f23936ffb74a116d8b04fac25885317cbf"
+    },
+    {
+      "name": "RefreshPaths",
+      "version": "v1.0.0",
+      "source": null,
+      "hash": "43141fede644400ec5393ed7151f344408fc3d75a9dfe1ce7262afc775c2cae0",
+      "files": [
+        "RefreshPaths\\RefreshPaths.dll",
+        "RefreshPaths\\RefreshPaths.json",
+        "RefreshPaths\\RefreshPaths.pck",
+        "RefreshPaths\\RefreshPaths.pdb"
+      ],
+      "folder_name": "RefreshPaths",
+      "mod_id": "RefreshPaths",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RefreshPaths_v1.0.0_9ceec1a5.zip",
+      "bundle_sha256": "9ceec1a5102ebe999b913557d284dd4526eb970ea32571cfcd005ba72b0a2d53"
+    },
+    {
+      "name": "RemoveMultiplayerPlayerLimit",
+      "version": "0.1.7",
+      "source": null,
+      "hash": "b91ac9b59956d06e864a94c2fd04217eb5d8f4471688ebfe4069148e0f55c1fc",
+      "files": [
+        "RemoveMultiplayerPlayerLimit\\config.ini",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.dll",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.json",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.pck"
+      ],
+      "folder_name": "RemoveMultiplayerPlayerLimit",
+      "mod_id": "RemoveMultiplayerPlayerLimit",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_ea437caa.zip",
+      "bundle_sha256": "ea437caa3491aae2a8fb96e79e19f3895be27008631118b9687ad5c6ad983626"
+    },
+    {
+      "name": "Stats For Custom Characters (v0.105.1)",
+      "version": "0.1.2",
+      "source": null,
+      "hash": "a790fe121458c6711058bcbf5989f79fe60a0259d5b796a7bf6d1227bcff74b2",
+      "files": [
+        "StatsForCustomCharacters\\StatsForCustomCharacters.dll",
+        "StatsForCustomCharacters\\StatsForCustomCharacters.json"
+      ],
+      "folder_name": "StatsForCustomCharacters",
+      "mod_id": "StatsForCustomCharacters",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Stats_For_Custom_Characters_.v0_105_1._v0.1.2_d9250681.zip",
+      "bundle_sha256": "d92506818c91bfb569fe49fe4d98b1f6c43586f78fd28ae43b80c9f80d09f780"
+    },
+    {
+      "name": "The Hermit",
+      "version": "v1.5.0",
+      "source": null,
+      "hash": "5d2ce72533d526ba443ddc133a87b618bd459405be07fefec22312d891f010ad",
+      "files": [
+        "HermitMod\\HermitMod.dll",
+        "HermitMod\\HermitMod.json",
+        "HermitMod\\HermitMod.pck"
+      ],
+      "folder_name": "HermitMod",
+      "mod_id": "HermitMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/The_Hermit_v1.5.0_d87c0297.zip",
+      "bundle_sha256": "d87c02976853ed3255e865f89f05f47278ec1db6136016b26151dfc30b9695e9"
+    },
+    {
+      "name": "The Sorceress",
+      "version": "v0.1.0",
+      "source": null,
+      "hash": "a4126228ad90b5827fdb94efe8ac6df17c5ca2352faa867e7a93286b69c00f59",
+      "files": [
+        "TheSorceressMod\\TheSorceressMod.dll",
+        "TheSorceressMod\\TheSorceressMod.json",
+        "TheSorceressMod\\TheSorceressMod.pck",
+        "TheSorceressMod\\TheSorceressMod.pdb"
+      ],
+      "folder_name": "TheSorceressMod",
+      "mod_id": "TheSorceressMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/The_Sorceress_v0.1.0_f3d2120e.zip",
+      "bundle_sha256": "f3d2120ec4d5c7831bcfd59ca22dbc766362af3a94367d351f08affcae08b1a8"
+    },
+    {
+      "name": "Watcher",
+      "version": "v1.4.5",
+      "source": null,
+      "hash": "a244254b7cc4df2b12154cdaee33e574dc996fa1a34902b161100373b576307b",
+      "files": [
+        "Watcher\\Watcher.dll",
+        "Watcher\\Watcher.json",
+        "Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.5_52608fa7.zip",
+      "bundle_sha256": "52608fa70a9082f14d3700aa359e04dc5f0c7d1600be299abc8cd241c8814499"
+    },
+    {
+      "name": "Watcher Feminized",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "6de2879382e81a63e91e708c7814719aaf3582fd860382c5c909f0f7797b0a30",
+      "files": [
+        "watcherFeminized\\watcherFeminized.json",
+        "watcherFeminized\\watcherFeminized.pck"
+      ],
+      "folder_name": "watcherFeminized",
+      "mod_id": "watcherFeminized",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Watcher_Feminized_v1.0.0_6549539a.zip",
+      "bundle_sha256": "6549539a06a91ae2407067f1e1edf2602de15e36f2067d23ba8da1184ea76f8a"
+    }
+  ],
+  "created_at": "2026-05-29T23:03:06.156595800Z",
+  "updated_at": "2026-05-29T23:15:54.573485200Z",
+  "public": false
+}
