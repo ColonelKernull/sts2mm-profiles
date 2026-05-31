@@ -16,8 +16,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_b700f796.zip",
-      "bundle_sha256": "b700f79601964563791a81e650f60c19b6f36d8e4e8da9580913aae15951ed10"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_de6840fa.zip",
+      "bundle_sha256": "de6840fa90f073b1e14189128920cdd1ae0d6e7cc7c7012b8e3616c1eafdcbd3"
     },
     {
       "name": "BetterSpire2",
@@ -46,8 +46,24 @@
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_09d43b28.zip",
-      "bundle_sha256": "09d43b28e84d73feaadf622f51ff949b1f9d3f85d6e594e95dd989d4b0f452c9"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_f74385a9.zip",
+      "bundle_sha256": "f74385a9d09298767d061c59dce80ace5c1372588028f956ac9d9442d9cab2d7"
+    },
+    {
+      "name": "Booba Necrobinder Mod",
+      "version": "v1.0.7",
+      "source": null,
+      "hash": "9b95a3c4635a5e2b51e963314435d0f8cf35f1ced22b213d87e82797f533cde0",
+      "files": [
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.dll",
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.json",
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.pck"
+      ],
+      "folder_name": "Booba-Necrobinder-Mod",
+      "mod_id": "Booba-Necrobinder-Mod",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Booba_Necrobinder_Mod_v1.0.7_ef21c75c.zip",
+      "bundle_sha256": "ef21c75cbe580aeda2542966f9db80d016a225e4c99228327d2eb10ae7e780ef"
     },
     {
       "name": "Corrupted",
@@ -62,40 +78,8 @@
       "folder_name": "TheCorrupted",
       "mod_id": "TheCorrupted",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Corrupted_v1.1.5_58874aa3.zip",
-      "bundle_sha256": "58874aa3550f8ac0eacd089a5fc540e8e84c903f6667e26fec3100f4402f9a2e"
-    },
-    {
-      "name": "Deadcells mod",
-      "version": "v0.1.5",
-      "source": null,
-      "hash": "44a738b958213af72c9ed373d335f9c27acfc3888ca20182c6322d13b095f8d7",
-      "files": [
-        "Deadcells\\Deadcells.dll",
-        "Deadcells\\Deadcells.json",
-        "Deadcells\\Deadcells.pck"
-      ],
-      "folder_name": "Deadcells",
-      "mod_id": "Deadcells",
-      "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Deadcells_mod_v0.1.5_85cb5425.zip",
-      "bundle_sha256": "85cb542592470c713dc719cdecee72a78a9b2bb0d05823bc54c6a515faff2aa8"
-    },
-    {
-      "name": "PaelGirl",
-      "version": "v0.1.0",
-      "source": null,
-      "hash": "d2201f5758544800a679ba8bd10cfe88cf4212e4fadc36dea484a023e1ff730d",
-      "files": [
-        "PaelGirl\\PaelGirl.dll",
-        "PaelGirl\\PaelGirl.json",
-        "PaelGirl\\PaelGirl.pck"
-      ],
-      "folder_name": "PaelGirl",
-      "mod_id": "PaelGirl",
-      "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/PaelGirl_v0.1.0_fada649d.zip",
-      "bundle_sha256": "fada649db058240f1419b7af108da6f23936ffb74a116d8b04fac25885317cbf"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Corrupted_v1.1.5_e1852785.zip",
+      "bundle_sha256": "e18527856d84213f9e8469c9a15110ba71e399af584213bf04b45c2fa8cd51f9"
     },
     {
       "name": "RefreshPaths",
@@ -111,8 +95,8 @@
       "folder_name": "RefreshPaths",
       "mod_id": "RefreshPaths",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RefreshPaths_v1.0.0_9ceec1a5.zip",
-      "bundle_sha256": "9ceec1a5102ebe999b913557d284dd4526eb970ea32571cfcd005ba72b0a2d53"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RefreshPaths_v1.0.0_a0336ff4.zip",
+      "bundle_sha256": "a0336ff4eb74570c0230cc2dc03642a8614a2b6061399fb395147c8e76254a49"
     },
     {
       "name": "RemoveMultiplayerPlayerLimit",
@@ -128,8 +112,8 @@
       "folder_name": "RemoveMultiplayerPlayerLimit",
       "mod_id": "RemoveMultiplayerPlayerLimit",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_ea437caa.zip",
-      "bundle_sha256": "ea437caa3491aae2a8fb96e79e19f3895be27008631118b9687ad5c6ad983626"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_87232335.zip",
+      "bundle_sha256": "87232335ff2f2967d8bd4dabbcda8e4cb61f00f69d626b41873ba3e798d230de"
     },
     {
       "name": "Stats For Custom Characters (v0.105.1)",
@@ -143,8 +127,8 @@
       "folder_name": "StatsForCustomCharacters",
       "mod_id": "StatsForCustomCharacters",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Stats_For_Custom_Characters_.v0_105_1._v0.1.2_d9250681.zip",
-      "bundle_sha256": "d92506818c91bfb569fe49fe4d98b1f6c43586f78fd28ae43b80c9f80d09f780"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Stats_For_Custom_Characters_.v0_105_1._v0.1.2_aa415ab4.zip",
+      "bundle_sha256": "aa415ab4f5683b9f4e7b7675d03616d7a20737ee3bfb424f89a2b636ba33238f"
     },
     {
       "name": "The Hermit",
@@ -159,8 +143,8 @@
       "folder_name": "HermitMod",
       "mod_id": "HermitMod",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/The_Hermit_v1.5.0_d87c0297.zip",
-      "bundle_sha256": "d87c02976853ed3255e865f89f05f47278ec1db6136016b26151dfc30b9695e9"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/The_Hermit_v1.5.0_02cdc699.zip",
+      "bundle_sha256": "02cdc699ac5cd56f7ec1c7cc07e644d8144de9638a887bab8cf90db460055250"
     },
     {
       "name": "The Sorceress",
@@ -176,8 +160,8 @@
       "folder_name": "TheSorceressMod",
       "mod_id": "TheSorceressMod",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/The_Sorceress_v0.1.0_f3d2120e.zip",
-      "bundle_sha256": "f3d2120ec4d5c7831bcfd59ca22dbc766362af3a94367d351f08affcae08b1a8"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/The_Sorceress_v0.1.0_b715a192.zip",
+      "bundle_sha256": "b715a1921855ac8494aac4ec7b0f7cd65ef600614bca6628563cce3f8e8a3c50"
     },
     {
       "name": "Watcher",
@@ -192,8 +176,8 @@
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.5_52608fa7.zip",
-      "bundle_sha256": "52608fa70a9082f14d3700aa359e04dc5f0c7d1600be299abc8cd241c8814499"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.5_a98ebbd9.zip",
+      "bundle_sha256": "a98ebbd9f161e2bcffab1482ffa8114b42288a22b4667bb34471108c11340768"
     },
     {
       "name": "Watcher Feminized",
@@ -207,11 +191,27 @@
       "folder_name": "watcherFeminized",
       "mod_id": "watcherFeminized",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Watcher_Feminized_v1.0.0_6549539a.zip",
-      "bundle_sha256": "6549539a06a91ae2407067f1e1edf2602de15e36f2067d23ba8da1184ea76f8a"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Watcher_Feminized_v1.0.0_b502f5d8.zip",
+      "bundle_sha256": "b502f5d84fdbca1b65cd1fdd24ac5174542604e157b01c5d4b163419bd1a37d3"
+    },
+    {
+      "name": "PaelGirl",
+      "version": "v0.1.0",
+      "source": null,
+      "hash": "d2201f5758544800a679ba8bd10cfe88cf4212e4fadc36dea484a023e1ff730d",
+      "files": [
+        "PaelGirl\\PaelGirl.dll",
+        "PaelGirl\\PaelGirl.json",
+        "PaelGirl\\PaelGirl.pck"
+      ],
+      "folder_name": "PaelGirl",
+      "mod_id": "PaelGirl",
+      "enabled": false,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/PaelGirl_v0.1.0_9edffb07.zip",
+      "bundle_sha256": "9edffb07e50da693c6de6ead3bf98c2210631b9ed44a040b9f731b54fd267951"
     }
   ],
   "created_at": "2026-05-29T23:03:06.156595800Z",
-  "updated_at": "2026-05-29T23:15:54.573485200Z",
+  "updated_at": "2026-05-30T23:01:12.929521500Z",
   "public": false
 }
