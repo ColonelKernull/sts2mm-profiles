@@ -1,0 +1,299 @@
+{
+  "name": "Whatever",
+  "game_version": null,
+  "created_by": "ColonelKernull",
+  "mods": [
+    {
+      "name": "BaseLib",
+      "version": "v3.1.9",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "06659c981972851a107139914abc3dde5cbdddebf222e521a96be72eb2d9f4b8",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.9_29688824.zip",
+      "bundle_sha256": "29688824a89d135677fb915e90e392e40983f8c1440e1df20fea09aa34922561"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": "nexus:slaythespire2/mods/27",
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_35b923a9.zip",
+      "bundle_sha256": "35b923a9de9934b734b5c2f88b8d5c0f8044a1bda4962a27b1599e399d0a3c79"
+    },
+    {
+      "name": "Watcher Feminized",
+      "version": "1.0.0",
+      "source": "nexus:slaythespire2/mods/1002",
+      "hash": "6de2879382e81a63e91e708c7814719aaf3582fd860382c5c909f0f7797b0a30",
+      "files": [
+        "watcherFeminized\\watcherFeminized.json",
+        "watcherFeminized\\watcherFeminized.pck"
+      ],
+      "folder_name": "watcherFeminized",
+      "mod_id": "watcherFeminized",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Watcher_Feminized_v1.0.0_f319b041.zip",
+      "bundle_sha256": "f319b041abce8933b65377f0872ee0d3cd7f9eb2fa212704d039a81c8539c7c6"
+    },
+    {
+      "name": "BetterSpire2",
+      "version": "v1.82.3",
+      "source": "nexus:slaythespire2/mods/2",
+      "hash": "bade1c0a8d4d2a410c1af11be0888df43d09f02d8e6226972c9ec7264dfc4526",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_bd2a41b2.zip",
+      "bundle_sha256": "bd2a41b25fa2c8e8bdbe68caeda88d165a8bea83ce2818ee9a4964ff96ba29b6"
+    },
+    {
+      "name": "Booba Necrobinder Mod",
+      "version": "v1.0.7",
+      "source": "nexus:slaythespire2/mods/858",
+      "hash": "9b95a3c4635a5e2b51e963314435d0f8cf35f1ced22b213d87e82797f533cde0",
+      "files": [
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.dll",
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.json",
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.pck"
+      ],
+      "folder_name": "Booba-Necrobinder-Mod",
+      "mod_id": "Booba-Necrobinder-Mod",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Booba_Necrobinder_Mod_v1.0.7_87bf26c0.zip",
+      "bundle_sha256": "87bf26c0abf4b628b4262d062b8a86fc75758b44e6d00067b996b8d90bb4c082"
+    },
+    {
+      "name": "KaguyaRegentMSGKSkin",
+      "version": "v0.2.3",
+      "source": null,
+      "hash": "ce9b5473d9040e953f36f10e1e635cf3544ed2619a87881c44fc8fbac21d8cdb",
+      "files": [
+        "RegentSkinMod\\KaguyaRegentMSGKSkin.dll",
+        "RegentSkinMod\\KaguyaRegentMSGKSkin.json",
+        "RegentSkinMod\\KaguyaRegentMSGKSkin.pck"
+      ],
+      "folder_name": "RegentSkinMod",
+      "mod_id": "KaguyaRegentMSGKSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/KaguyaRegentMSGKSkin_v0.2.3_a73b0319.zip",
+      "bundle_sha256": "a73b0319929f4ffd4b8cb74969a109d60906e3462e0283cdfbece6b4cdd7cbe3"
+    },
+    {
+      "name": "MarthCharacterMod",
+      "version": "v0.0.2",
+      "source": "nexus:slaythespire2/mods/1107",
+      "hash": "584b8437be10435b01758d28342b04f5ddca332bbcdffab2406ec53737e69837",
+      "files": [
+        "MarthCharacterMod\\MarthCharacterMod.dll",
+        "MarthCharacterMod\\MarthCharacterMod.json",
+        "MarthCharacterMod\\MarthCharacterMod.pck"
+      ],
+      "folder_name": "MarthCharacterMod",
+      "mod_id": "MarthCharacterMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/MarthCharacterMod_v0.0.2_0470af92.zip",
+      "bundle_sha256": "0470af924fbf7ae8315133aa09a0f03f8bb2d846b272b4f4d43522319b788664"
+    },
+    {
+      "name": "MultiEnchantmentMod",
+      "version": "v2.2.8",
+      "source": "nexus:slaythespire2/mods/873",
+      "hash": "072662b349700882447f526e4ad25c5104ee7599c1befaf04ae5b1799f3a9e79",
+      "files": [
+        "MultiEnchantmentMod\\MultiEnchantmentMod.dll",
+        "MultiEnchantmentMod\\MultiEnchantmentMod.json",
+        "MultiEnchantmentMod\\MultiEnchantmentMod.pck"
+      ],
+      "folder_name": "MultiEnchantmentMod",
+      "mod_id": "MultiEnchantmentMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/MultiEnchantmentMod_v2.2.8_b5003490.zip",
+      "bundle_sha256": "b5003490b6b0af1929e8a7c7ee173207dc5792fe61670926746427d87f90b9ea"
+    },
+    {
+      "name": "PaelGirl",
+      "version": "0.1.1",
+      "source": "nexus:slaythespire2/mods/1049",
+      "hash": "eac736dbc37e25db1c9341505bae6cd93c127cbc7446eae33ee8dc7b0760a4a9",
+      "files": [
+        "PaelGirl\\PaelGirl.dll",
+        "PaelGirl\\PaelGirl.json",
+        "PaelGirl\\PaelGirl.pck"
+      ],
+      "folder_name": "PaelGirl",
+      "mod_id": "PaelGirl",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/PaelGirl_v0.1.1_59819a31.zip",
+      "bundle_sha256": "59819a3166aae5162becd1144c43555ac159f12566312421341dd8605684fd65"
+    },
+    {
+      "name": "RefreshCards",
+      "version": "v1.0.0",
+      "source": "nexus:slaythespire2/mods/1005",
+      "hash": "778a1a142e5bd366319d72eabe3bd0310c8897e2355f5d4884ff5ade7fddee62",
+      "files": [
+        "RefreshCards\\RefreshCards.dll",
+        "RefreshCards\\RefreshCards.json",
+        "RefreshCards\\RefreshCards.pck",
+        "RefreshCards\\RefreshCards.pdb"
+      ],
+      "folder_name": "RefreshCards",
+      "mod_id": "RefreshCards",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RefreshCards_v1.0.0_7df90091.zip",
+      "bundle_sha256": "7df90091c979c2e581484459717d6d4ec941e361a40de283d43bca1f91310b67"
+    },
+    {
+      "name": "RefreshPaths",
+      "version": "v1.0.0",
+      "source": "nexus:slaythespire2/mods/1006",
+      "hash": "43141fede644400ec5393ed7151f344408fc3d75a9dfe1ce7262afc775c2cae0",
+      "files": [
+        "RefreshPaths\\RefreshPaths.dll",
+        "RefreshPaths\\RefreshPaths.json",
+        "RefreshPaths\\RefreshPaths.pck",
+        "RefreshPaths\\RefreshPaths.pdb"
+      ],
+      "folder_name": "RefreshPaths",
+      "mod_id": "RefreshPaths",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RefreshPaths_v1.0.0_0a9c708f.zip",
+      "bundle_sha256": "0a9c708faccdc096234644404b1e987b578b46080e2fb4369f50022ef49dbf3b"
+    },
+    {
+      "name": "RemoveMultiplayerPlayerLimit",
+      "version": "0.1.7",
+      "source": "nexus:slaythespire2/mods/21",
+      "hash": "b91ac9b59956d06e864a94c2fd04217eb5d8f4471688ebfe4069148e0f55c1fc",
+      "files": [
+        "RemoveMultiplayerPlayerLimit\\config.ini",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.dll",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.json",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.pck"
+      ],
+      "folder_name": "RemoveMultiplayerPlayerLimit",
+      "mod_id": "RemoveMultiplayerPlayerLimit",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_2089ee98.zip",
+      "bundle_sha256": "2089ee9896aa94ce6a8022385421de347668de7a1df2301d79ea5ef69e846874"
+    },
+    {
+      "name": "Soot",
+      "version": "v0.5.2",
+      "source": "nexus:slaythespire2/mods/1109",
+      "hash": "2af05ca17e80adc9d0327c49236890ce7ddcfd85370f91c65793968ea5f297a2",
+      "files": [
+        "SGGSoot\\SGGSoot.dll",
+        "SGGSoot\\SGGSoot.json",
+        "SGGSoot\\SGGSoot.pck"
+      ],
+      "folder_name": "SGGSoot",
+      "mod_id": "SGGSoot",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Soot_v0.5.2_7cf26f7a.zip",
+      "bundle_sha256": "7cf26f7abfa3a1ed8587bb342787688006093dfee57948b3125de3993b59e212"
+    },
+    {
+      "name": "The Hermit",
+      "version": "v1.5.0",
+      "source": "nexus:slaythespire2/mods/320",
+      "hash": "5d2ce72533d526ba443ddc133a87b618bd459405be07fefec22312d891f010ad",
+      "files": [
+        "HermitMod\\HermitMod.dll",
+        "HermitMod\\HermitMod.json",
+        "HermitMod\\HermitMod.pck"
+      ],
+      "folder_name": "HermitMod",
+      "mod_id": "HermitMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/The_Hermit_v1.5.0_714775ce.zip",
+      "bundle_sha256": "714775ced3e351b4aca64c4569600fbf65148cb3d439c1200157a9943d9632fa"
+    },
+    {
+      "name": "The Sorceress",
+      "version": "v0.1.0",
+      "source": "nexus:slaythespire2/mods/1063",
+      "hash": "a4126228ad90b5827fdb94efe8ac6df17c5ca2352faa867e7a93286b69c00f59",
+      "files": [
+        "TheSorceressMod\\TheSorceressMod.dll",
+        "TheSorceressMod\\TheSorceressMod.json",
+        "TheSorceressMod\\TheSorceressMod.pck",
+        "TheSorceressMod\\TheSorceressMod.pdb"
+      ],
+      "folder_name": "TheSorceressMod",
+      "mod_id": "TheSorceressMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/The_Sorceress_v0.1.0_af0d95fd.zip",
+      "bundle_sha256": "af0d95fd91895fcf10fc9fe9dcd3c81d398dfe3c0f2178847283ed6bcadedbf8"
+    },
+    {
+      "name": "Tweek",
+      "version": "v0.6.0",
+      "source": "nexus:slaythespire2/mods/1060",
+      "hash": "96e6b257979ca3ebd969dcc0cc97ae1db0ae1d4d5aba03e7d63f22089b2dd616",
+      "files": [
+        "SGGTweek\\SGGTweek.dll",
+        "SGGTweek\\SGGTweek.json",
+        "SGGTweek\\SGGTweek.pck"
+      ],
+      "folder_name": "SGGTweek",
+      "mod_id": "SGGTweek",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Tweek_v0.6.0_b8aa1695.zip",
+      "bundle_sha256": "b8aa16950aee92cc183c9ac097e44e5b5fc0a44e5906d95b3d6e1f48a0804132"
+    },
+    {
+      "name": "Watcher",
+      "version": "v1.4.6",
+      "source": "nexus:slaythespire2/mods/46",
+      "hash": "6a6145d9751e7f1ca7e18929537d0dbffc047fac5e073d367cfc90639a5eb2bc",
+      "files": [
+        "Watcher\\Watcher.dll",
+        "Watcher\\Watcher.json",
+        "Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.6_e76e93f1.zip",
+      "bundle_sha256": "e76e93f1d2403148cd493d4ffeb7377e19aee9b1188f34baffd21154646b6ab5"
+    }
+  ],
+  "created_at": "2026-06-04T06:04:18.862437700Z",
+  "updated_at": "2026-06-04T06:07:46.859566400Z",
+  "public": false
+}
