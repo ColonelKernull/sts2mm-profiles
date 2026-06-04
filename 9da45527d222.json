@@ -5,7 +5,7 @@
   "mods": [
     {
       "name": "BaseLib",
-      "version": "v3.1.8",
+      "version": "v3.1.9",
       "source": "github:Alchyr/BaseLib-StS2",
       "hash": "047b5088c81ffed28c54b5d5088150c73c36bac471505aaf6df7d976a27deaf3",
       "files": [
@@ -16,8 +16,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_435a9c10.zip",
-      "bundle_sha256": "435a9c103314e62adf6445b739062b1b73c32b31903832af85a908e646c9e69c"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.9_682d9b82.zip",
+      "bundle_sha256": "682d9b82f14682b4fae892e88f7ccde007cc59170fb80926ef8265687e827cde"
     },
     {
       "name": "BetterSpire2",
@@ -46,8 +46,8 @@
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_63a3e76e.zip",
-      "bundle_sha256": "63a3e76e129f6b95f7c850f678a456748902cef5d2d682b769c6667913cf23d0"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_b82d6668.zip",
+      "bundle_sha256": "b82d666862b8ffabd101bd9fdc70782f5c01afab901a0a692c7e2477eae2a71c"
     },
     {
       "name": "RitsuLib",
@@ -67,8 +67,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.7_a1d37bdd.zip",
-      "bundle_sha256": "a1d37bddb9b02a77cd701b312490aa2a93895a43e6e3f123c4e7327e801fe1fa"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.7_4453e25b.zip",
+      "bundle_sha256": "4453e25bb3ffa9d75d93e0b9b9003a24ba802a9d6265d44b173fc39cdb3431f0"
     },
     {
       "name": "RemoveMultiplayerPlayerLimit",
@@ -84,8 +84,8 @@
       "folder_name": "RemoveMultiplayerPlayerLimit",
       "mod_id": "RemoveMultiplayerPlayerLimit",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_6fe570cf.zip",
-      "bundle_sha256": "6fe570cf89d41a355e207253915549b6e3048f8b060dbdc75ec95c83e4ace403"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_5658da57.zip",
+      "bundle_sha256": "5658da577b02b1d72424a03bdd999467717a540705f2a21b23a3bdfeea6d28b4"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -100,8 +100,8 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_4e7e9925.zip",
-      "bundle_sha256": "4e7e9925e6bb2afca930368e66ac9ff261ec7448c2b20c3311bbc6e42528390f"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_e456b29c.zip",
+      "bundle_sha256": "e456b29cd79f7fde91221f5682761baee5c48854cb64331144f6e848d9d6e840"
     },
     {
       "name": "RefreshPaths",
@@ -117,8 +117,8 @@
       "folder_name": "RefreshPaths",
       "mod_id": "RefreshPaths",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RefreshPaths_v1.0.0_3eb5a515.zip",
-      "bundle_sha256": "3eb5a5159f0b1be4ae054f2c146a21b995e450b1f92bd9722da830ce7bb66377"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RefreshPaths_v1.0.0_da8a1e5d.zip",
+      "bundle_sha256": "da8a1e5d2e04af1d0c3a15528a5531a05ec3f0fd45256cbc9cc1fae7a3eee99a"
     },
     {
       "name": "The Hermit",
@@ -133,8 +133,8 @@
       "folder_name": "HermitMod",
       "mod_id": "HermitMod",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/The_Hermit_v1.5.0_4e5d075a.zip",
-      "bundle_sha256": "4e5d075ac0be1e266760a083d3abe18ab569c8a9ad1d7a56b3bce7b98803716b"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/The_Hermit_v1.5.0_2f556434.zip",
+      "bundle_sha256": "2f5564348e3733637522c611e70b1a8cb81666d654800797cb6bf347db585777"
     },
     {
       "name": "The Sorceress",
@@ -150,8 +150,8 @@
       "folder_name": "TheSorceressMod",
       "mod_id": "TheSorceressMod",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/The_Sorceress_v0.1.0_20f01d25.zip",
-      "bundle_sha256": "20f01d254fa33d3f0ef81d1a907c90d6d8ce548b7906ced1f17ec6b037b6807d"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/The_Sorceress_v0.1.0_210eb9c5.zip",
+      "bundle_sha256": "210eb9c518bdd3b6fa59bc42c327c73a7f31535afb465ef20956b4fbd59c5858"
     },
     {
       "name": "Watcher",
@@ -166,8 +166,8 @@
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.6_bd3bc962.zip",
-      "bundle_sha256": "bd3bc9628c016ed2551232dd1117f02e9e11e56b7aaf4f17bebf2cee2687e2c6"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.6_b3e08af0.zip",
+      "bundle_sha256": "b3e08af0ffdffa3ca171b522a8f45d3260d0361d1e4e51067107c91f1532b774"
     },
     {
       "name": "MultiEnchantmentMod",
@@ -182,8 +182,8 @@
       "folder_name": "MultiEnchantmentMod",
       "mod_id": "MultiEnchantmentMod",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/MultiEnchantmentMod_v2.2.8_7b4d763b.zip",
-      "bundle_sha256": "7b4d763bea12777ef8514a2e2f920a8d59bd1a784e1c8e280f2bec1fbb5f06d2"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/MultiEnchantmentMod_v2.2.8_49c3633c.zip",
+      "bundle_sha256": "49c3633c313c508601e61c41f3fd8b9bf0ad61a0239e64a243b588ccab8cea82"
     },
     {
       "name": "RememberCardSort",
@@ -198,8 +198,8 @@
       "folder_name": "RememberCardSort",
       "mod_id": "RememberCardSort",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RememberCardSort_v0.1.2_7d54c7ef.zip",
-      "bundle_sha256": "7d54c7ef832ea62f69dc1bf20c1d0b33516065af85c252230c6d44b446ae8e6d"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RememberCardSort_v0.1.2_08884fee.zip",
+      "bundle_sha256": "08884feef6603b57e51f1a051462cddabc57c1eebf676c4216d4dca5dcbf3dd3"
     },
     {
       "name": "RefreshCards",
@@ -215,8 +215,8 @@
       "folder_name": "RefreshCards",
       "mod_id": "RefreshCards",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RefreshCards_v1.0.0_26de9f0e.zip",
-      "bundle_sha256": "26de9f0e6537f4a007b94f4410bfc39b0f6e97a74c7d65eb77a094f69c33b155"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/RefreshCards_v1.0.0_8bca7b56.zip",
+      "bundle_sha256": "8bca7b561a45b55713bb0763555ff8010a798d28d001799396bda82f3650f354"
     },
     {
       "name": "MarthCharacterMod",
@@ -231,8 +231,8 @@
       "folder_name": "MarthCharacterMod",
       "mod_id": "MarthCharacterMod",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/MarthCharacterMod_v0.0.2_be86a706.zip",
-      "bundle_sha256": "be86a706b2b4a2e06b8f2590045e1a7bf8e599aa62b5db9938eaa0a58b03bdae"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/MarthCharacterMod_v0.0.2_b2331c0e.zip",
+      "bundle_sha256": "b2331c0e67f4014c4393d5c0147e2332f8d87a705ea6e681b558ed029a5579f4"
     },
     {
       "name": "Soot",
@@ -247,8 +247,8 @@
       "folder_name": "SGGSoot",
       "mod_id": "SGGSoot",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Soot_v0.5.2_9ae140c2.zip",
-      "bundle_sha256": "9ae140c2644249f0b9eae91adf5c39cbea4d31890953799b65677589858a7642"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Soot_v0.5.2_597a98b0.zip",
+      "bundle_sha256": "597a98b0f7a590a779485349d74b48e8181eb59fd8dc4dbe6d974fc7dfc49518"
     },
     {
       "name": "End Run Graph",
@@ -262,8 +262,8 @@
       "folder_name": "EndRunGraph-v0.2.0-Beta-STS2-v0.106.1",
       "mod_id": "EndRunGraph",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/End_Run_Graph_v0.2.0_061a7820.zip",
-      "bundle_sha256": "061a782046c66e739a173535a02add5c96ea1791a16e95aefb42433038410e5f"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/End_Run_Graph_v0.2.0_718de5cb.zip",
+      "bundle_sha256": "718de5cbfa61083966595ac1171164f5e1ff5216b0119606ad03ac8efc51a8b6"
     },
     {
       "name": "Tweek",
@@ -278,11 +278,11 @@
       "folder_name": "SGGTweek",
       "mod_id": "SGGTweek",
       "enabled": true,
-      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Tweek_v0.6.0_c9c64604.zip",
-      "bundle_sha256": "c9c646041ef3d5b216f80aaccffc52daacf81b19c46c106f8a47000ccbc0e675"
+      "bundle_url": "https://github.com/ColonelKernull/sts2mm-profiles/releases/download/bundles/Tweek_v0.6.0_ef0d5056.zip",
+      "bundle_sha256": "ef0d505606d49802ca7c2595470bd411e8f1415d4a9a9d30fc114b7a06c9ffd5"
     }
   ],
   "created_at": "2026-05-29T23:03:06.156595800Z",
-  "updated_at": "2026-06-04T03:02:33.164970500Z",
+  "updated_at": "2026-06-04T03:07:08.124576300Z",
   "public": false
 }
